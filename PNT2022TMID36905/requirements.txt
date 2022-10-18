@@ -1,0 +1,7 @@
+tensorflow==1.15.2
+keras=2.2.4
+opencv-python==4.1.0.25
+pip install imutils
+pip install flask
+pip install progressbar33==2.4
+pip install playsound==1.3.0
