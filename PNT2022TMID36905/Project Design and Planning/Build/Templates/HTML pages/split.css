@@ -1,0 +1,26 @@
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;}
+    .left {
+        top: 20%;
+        left: 0;
+        background-color: rgba(17, 17, 17, 0);
+      }
+      .right {
+        top: 25%;
+        right: -10%;
+        background-color: rgba(255, 0, 0, 0);
+      }
+      .button {
+        position: absolute;
+        top: 50%;
+        left: 20%;
+        transform: translate(-50%, -50%);
+        text-align: center;}
+        
+      
